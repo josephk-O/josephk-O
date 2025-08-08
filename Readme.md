@@ -1,8 +1,8 @@
 <!-- Banner / Introduction -->
-<h1 align="center">Hi there 👋, I'm Joseph</h1>
-<h3 align="center">Software Engineer who loves building scalable, secure, and intuitive systems 🚀</h3>
+<!-- <h1 align="center">Hi there 👋, I'm Joseph</h1> -->
+<!-- <h3 align="center">I love building scalable, secure, and intuitive systems 🚀</h3> -->
 
----
+<!-- --- -->
 
 ## 📈 GitHub Stats
 <p align="center">
